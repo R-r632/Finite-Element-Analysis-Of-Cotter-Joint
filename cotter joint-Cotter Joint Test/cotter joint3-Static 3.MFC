@@ -1,0 +1,16 @@
+[StartTime]
+cotter joint3-Static 3.MFC=1s
+[SolverState]
+cotter joint3-Static 3.MFC=2
+[MainFrame]
+cotter joint3-Static 3.MFC=MCAAAAAAAAAAAAAABAAAAAAAPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPMECAAAAAHEBAAAAAELDAAAAAKBCAAAAA
+[ShowMin]
+cotter joint3-Static 3.MFC=No
+[SolverType]
+cotter joint3-Static 3.MFC=Linear Analysis
+[StudyType]
+cotter joint3-Static 3.MFC=0
+[StudyName]
+cotter joint3-Static 3.MFC=Static 3
+[Solver]
+cotter joint3-Static 3.MFC=Iterative

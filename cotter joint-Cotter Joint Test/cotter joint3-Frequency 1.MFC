@@ -1,0 +1,16 @@
+[StartTime]
+cotter joint3-Frequency 1.MFC=
+[SolverState]
+cotter joint3-Frequency 1.MFC=2
+[MainFrame]
+cotter joint3-Frequency 1.MFC=MCAAAAAAAAAAAAAABAAAAAAAPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPMECAAAAAHEBAAAAAELDAAAAAKBCAAAAA
+[ShowMin]
+cotter joint3-Frequency 1.MFC=yes
+[SolverType]
+cotter joint3-Frequency 1.MFC=Linear Analysis
+[StudyType]
+cotter joint3-Frequency 1.MFC=-1
+[StudyName]
+[Solver]
+cotter joint3-Frequency 1.MFC=Sparse
+[StudyName1]

@@ -1,0 +1,16 @@
+[StartTime]
+cotter joint-Cotter Joint Test.MFC=3s
+[SolverState]
+cotter joint-Cotter Joint Test.MFC=2
+[MainFrame]
+cotter joint-Cotter Joint Test.MFC=MCAAAAAAAAAAAAAABAAAAAAAPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPMECAAAAAHEBAAAAAELDAAAAAKBCAAAAA
+[ShowMin]
+cotter joint-Cotter Joint Test.MFC=No
+[SolverType]
+cotter joint-Cotter Joint Test.MFC=Linear Analysis
+[StudyType]
+cotter joint-Cotter Joint Test.MFC=0
+[StudyName]
+cotter joint-Cotter Joint Test.MFC=Cotter Joint Test
+[Solver]
+cotter joint-Cotter Joint Test.MFC=Iterative
